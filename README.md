@@ -16,3 +16,6 @@ print(kor2num("하나하나둘길"))
 # >>> 112길
 
 ```
+
+## 참고사항
+해당 알고리즘의 아이디어는 [해당레포](https://github.com/codertimo/korean2num)
