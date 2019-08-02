@@ -20,5 +20,5 @@ print(kor2num("하나하나둘길"))
 ```
 
 ## 참고사항
-해당 알고리즘은 [준성님의 Kor2num](https://github.com/codertimo/korean2num)의 알고리즘을 보완,변형하고 커스터마이징하였습니다.
+해당 알고리즘은 [준성님의 Kor2num](https://github.com/codertimo/korean2num)알고리즘을 기반으로 기능 추가, 변형하여 커스터마이징하였습니다.
 감사합니다.
