@@ -8,13 +8,13 @@
 
 import kor2num
 
-print(kor2num("천오백이호"))
+print(kor2num.kor2num("천오백이호"))
 # >>> 1502호
-print(kor2num("이만오천이백일"))
+print(kor2num.kor2num("이만오천이백일"))
 # >>> 25201
-print(kor2num("둘둘이하나"))
+print(kor2num.kor2num("둘둘이하나"))
 # >>> 2221
-print(kor2num("하나하나둘길"))
+print(kor2num.kor2num("하나하나둘길"))
 # >>> 112길
 
 ```
