@@ -10,6 +10,8 @@ import kor2num
 
 print(kor2num("천오백이호"))
 # >>> 1502호
+print(kor2num("이만오천이백일"))
+# >>> 25201
 print(kor2num("둘둘이하나"))
 # >>> 2221
 print(kor2num("하나하나둘길"))
@@ -18,4 +20,5 @@ print(kor2num("하나하나둘길"))
 ```
 
 ## 참고사항
-해당 알고리즘의 아이디어는 [해당레포](https://github.com/codertimo/korean2num)
+해당 알고리즘은 [준성님의 Kor2num](https://github.com/codertimo/korean2num)의 알고리즘을 보완,변형하고 커스터마이징하였습니다.
+감사합니다.
